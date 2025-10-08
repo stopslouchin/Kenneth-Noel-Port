@@ -447,9 +447,9 @@ footer {
     width: calc(100%/3);
     }
 
-    .project__description--para (
+    .project__description--para {
         font-size: 14px;
-    )
+    }
 
     .project__description {
         left: 30px;
